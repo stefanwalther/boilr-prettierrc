@@ -1,0 +1,15 @@
+{
+  "name": "boilr-prettierrc",
+  "version": "0.1.1",
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/boilr-prettierrc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stefanwalther/boilr-prettierrc/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/boilr-prettierrc#readme",
+  "description": "Simple template to provide a simple .prettierrc file"
+}
